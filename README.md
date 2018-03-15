@@ -1,12 +1,5 @@
 <p align="center">
-  <br>
   <b>创造不息，交付不止</b>
-  
-  
-  <br>
-  <a href="https://laravel-china.org/topics/3383/laravel-the-first-chinese-new-book-laravel-tutorial">
-    <img src="http://ww1.sinaimg.cn/large/6d86d850gw1fao8va0fv0j208y0aw74v.jpg" width=250>
-  </a>
 </p>
 
 ![](http://ww3.sinaimg.cn/large/76dc7f1bjw1f2mqhtw9v6j21bs10m7fs.jpg)
